@@ -25,7 +25,7 @@ SECRET_KEY = 'ebkkzxewn3pmi%esqw34#n9o_t)ykmm=9&1@sgzhjzljmfs(0-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['musicplayer07.azurewebsites.net','127.0.0.1']
 
 
 # Application definition
